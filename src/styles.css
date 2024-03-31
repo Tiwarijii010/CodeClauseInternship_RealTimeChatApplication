@@ -1,0 +1,60 @@
+/* frontend/src/styles.css */
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  /* Container */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Title */
+  .title {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Message Container */
+  .message-container {
+    margin-top: 20px;
+  }
+  
+  /* Message */
+  .message {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Input Field */
+  .input-field {
+    margin-top: 20px;
+    padding: 8px;
+    width: calc(100% - 20px);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Button */
+  .button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Button Hover */
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
